@@ -1,6 +1,6 @@
 {
   "name": "insert-host",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "insert a new line for hosts file",
   "main": "index.js",
   "files": ["index.js","README.md","package.json"],

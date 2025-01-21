@@ -1,6 +1,6 @@
 {
   "name": "insert-host",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "insert a new line for hosts file",
   "main": "index.js",
   "files": ["index.js","README.md","package.json"],
@@ -10,9 +10,9 @@
   },
   "homepage": "https://github.com/returndbf/insert-host",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
-  "keywords": [],
+  "keywords": ["hosts","host"],
   "author": "dabenfeng",
   "license": "ISC",
   "dependencies": {

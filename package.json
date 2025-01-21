@@ -1,0 +1,21 @@
+{
+  "name": "insert-host",
+  "version": "1.0.0",
+  "description": "insert a new line for hosts file",
+  "main": "index.js",
+  "files": ["index.js","README.md","package.json"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/returndbf/insert-host"
+  },
+  "homepage": "https://github.com/returndbf/insert-host",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dabenfeng",
+  "license": "ISC",
+  "dependencies": {
+    "sudo-prompt": "^9.2.1"
+  }
+}
